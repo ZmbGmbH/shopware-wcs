@@ -42,7 +42,7 @@ For payment processing, you have to conclude a contract with Wirecard. Wirecard 
 
 To get an idea of **transaction fees and service charges**, please visit Wirecard CheckoutPortal:
 
- * for Germany/Austria: https://checkoutportal.com/de/en/shopware/
- * for Italy: Italy: https://checkoutportal.com/it/en/shopware/
- * for the Netherlands: https://checkoutportal.com/nl/en/shopware/
+ * for Germany: https://checkoutportal.com/de/shopware/
+ * for Italy: https://checkoutportal.com/it/shopware/
+ * for the Netherlands: https://checkoutportal.com/nl/shopware/
  * for UK: https://checkoutportal.com/gb/shopware/
