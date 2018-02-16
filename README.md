@@ -36,7 +36,7 @@ Wirecard Checkout Seamless offers:
   * With Wirecard Collecting only a single contract is required for payouts within various payment methods.
 
 
-##CheckoutPortal
+## CheckoutPortal
 All Wirecard shop plugins my be downloaded and tested completely **free of charge**. 
 For payment processing, you have to conclude a contract with Wirecard. Wirecard CheckoutPortal is a payment portal for small and medium-sized companies and startups which offers credit card payments as well as payment options suited to individual requirements. 
 
